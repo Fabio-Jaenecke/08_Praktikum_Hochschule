@@ -19,7 +19,7 @@ public class Person {
 	}
 		
 	public String gibInfo() {
-		return (name + ", " + id);
+		return (name + ", ID " + id);
 	}
 	
 }
